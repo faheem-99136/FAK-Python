@@ -6,7 +6,7 @@
 print("Hello world")  # Prints a greeting message
 
 # You can print your name or any text:
-print("Faheem alam Khan")  # Prints your name
+print("Faheem Alam Khan")  # Prints your name
 
 # You can print numbers as strings or perform calculations:
 print("23")           # Prints the string '23'
