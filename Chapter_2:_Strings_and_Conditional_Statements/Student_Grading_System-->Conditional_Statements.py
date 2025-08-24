@@ -46,4 +46,3 @@ else:
 # - Suggestion: you can store the grade in a variable (as done) and print once
 #   at the end. This makes it easier to change output formatting later.
 
-# Suggested filename: student_grading_system.py

@@ -26,10 +26,6 @@ print(str3)
 escaped = "Line1\nLine2\t(Indented)"
 print(escaped)
 
-# Raw strings: prefix with r to avoid processing escape sequences (useful for file paths)
-raw_path = r"C:\Users\Faheem\Documents"
-print("Raw path example:", raw_path)
-
 # Short notes:
 # - Strings are immutable (can't change characters by assignment).
 # - Use + to concatenate strings and len() to get length.

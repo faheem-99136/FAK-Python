@@ -51,4 +51,3 @@ else:
 # - `else` runs when none of the previous conditions match.
 # - Indentation (spaces) is required to define blocks after if/elif/else.
 
-# Suggested filename: traffic_lights_example.py

@@ -40,4 +40,4 @@ print("s[::2] (every 2nd character) ->", s[::2])  # simple demo; you can skip th
 # - Slicing never raises an error if indexes are out of range; it simply returns what exists.
 # - To access a single character, use indexing (s[i]); slicing returns a new string.
 
-# Suggested filename: string_slicing_examples.py
+
